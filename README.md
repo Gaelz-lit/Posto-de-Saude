@@ -9,3 +9,5 @@ O sistema terá três funcionalidades principais: controle de estoque de medicam
 Além disso, o paciente poderá consultar um medicamento pelo aplicativo e verificar em quais postos de saúde ele está disponível, facilitando a busca e evitando deslocamentos desnecessários.
 
 A nossa proposta é tornar o atendimento mais organizado, prático e eficiente tanto para os pacientes quanto para os profissionais de saúde.
+
+DESIGN FIGMA - https://www.figma.com/design/4RWoOzjsrPfL7rIPMRmffR/Posto-de-Sa%C3%BAde?node-id=9-2&t=DiXoBlTW6R1TKMte-1
